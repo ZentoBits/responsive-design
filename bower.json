@@ -1,0 +1,20 @@
+{
+  "name": "responsive-design",
+  "homepage": "https://github.com/ZentoBits/responsive-design",
+  "authors": [
+    "Zachary George <zacharygeorge@Zacharys-MacBook-Pro.local>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
